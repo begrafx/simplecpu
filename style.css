@@ -49,8 +49,8 @@ li {
 
 	/* Header branding */
 	li b {
-		font-weight: bold;
-		color: #f9293c;
+		font-weight: normal;
+		#425062color: #543a3a;
 
 		border-right: 1px solid #eaeaea;
 		padding-right: 20px;
